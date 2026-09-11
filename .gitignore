@@ -32,3 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 .env
+midia/*
+!midia/.gitkeep
+ecoa.mv.db
+ecoa.trace.db
+*.m4a
+request.http
